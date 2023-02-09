@@ -1,6 +1,6 @@
 // Replace with your own firebase config!
 export const FIREBASE_CONFIG = {
- apiKey: "AIzaSyB55OOWTWROQumWL84P79txhwD2HspvSZs",
+ apiKey: "AIzaSyA4PZvQ3vYyItw8dWj82LNhROXGm_6hmcs",
   authDomain: "gpt-wager.firebaseapp.com",
   projectId: "gpt-wager",
   storageBucket: "gpt-wager.appspot.com",
